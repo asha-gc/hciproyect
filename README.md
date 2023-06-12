@@ -1,4 +1,4 @@
-# ⭐️ Interacción Humano Computadora ⭐️
+# 🤖 Interacción Humano Computadora 🤖
 ## 💚️ Nuestro equipo 💚
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
