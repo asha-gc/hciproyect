@@ -1,6 +1,5 @@
-<h1 align="center"> ⭐️ Interacción Humano Computadora ⭐️ </h1>
-
-<h1 align="center"> ️💚️ Nuestro equipo 💚 </h1>
+## ⭐️ Interacción Humano Computadora ⭐️
+##💚️ Nuestro equipo 💚
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
