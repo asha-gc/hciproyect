@@ -6,9 +6,9 @@
 <!-- prettier-ignore -->
 | Nombre  | Imagen |
 | ------------- | ------------- |
-| Eyli Burguete Pech | <img width=20px src="https://github.com/asha-gc/hciproyect/assets/56806594/0539c122-2236-4316-9697-e58adefc329e">|
-| Ashanty Francely González Concha  |<img width=20px src="https://github.com/asha-gc/hciproyect/assets/56806594/3ebc08ce-e05a-4bf5-98b2-321177531e1c">  |
-| Samuel David Rodríguez Coral  | <img width=20px src="https://github.com/asha-gc/hciproyect/assets/56806594/3e445600-c2da-4796-961b-daa0b15cbf69"> |
+| Eyli Burguete Pech | <img width=100px src="https://github.com/asha-gc/hciproyect/assets/56806594/0539c122-2236-4316-9697-e58adefc329e">|
+| Ashanty Francely González Concha  |<img width=100px src="https://github.com/asha-gc/hciproyect/assets/56806594/3ebc08ce-e05a-4bf5-98b2-321177531e1c">  |
+| Samuel David Rodríguez Coral  | <img width=100px src="https://github.com/asha-gc/hciproyect/assets/56806594/3e445600-c2da-4796-961b-daa0b15cbf69"> |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
