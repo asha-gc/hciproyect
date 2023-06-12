@@ -1,5 +1,5 @@
 # Interacción Humano Computadora 👩‍💻
->En este repositorio se encuentra nuestro proyecto perteneciente a la materia de Interacción Humano Computadora del Curso Intensivo de Verano 2023. Más adelante actualizaremos la información con los detalles del proyecto.
+En este repositorio se encuentra nuestro proyecto perteneciente a la materia de Interacción Humano Computadora del Curso Intensivo de Verano 2023. Más adelante actualizaremos la información con los detalles del proyecto.
 
 ## Nuestro equipo 👥
 | Nombre  | Imagen |
