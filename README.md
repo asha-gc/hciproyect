@@ -4,5 +4,5 @@
 <h1 align="center"> Nuestro equipo </h1>
 <img src="https://github.com/asha-gc/hciproyect/assets/56806594/2901119b-169c-4d38-80ac-bbaba520a240">
 <h1 align="center"> Nuestro lugar de trabajo </h1> 
-/n
+<br><br>
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/UADY_logo.svg" width=300px></div>
